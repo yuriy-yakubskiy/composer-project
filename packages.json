@@ -11,7 +11,7 @@
                     "reference": "8564ff2b48eeb2eb3fc77abb32465ec11772d4e1"
                 },
                 "require": {
-                    "php": ">=5.3.3",
+                    "php": ">=5.3.3"
                 },
                 "type": "project",
                 "autoload": {
