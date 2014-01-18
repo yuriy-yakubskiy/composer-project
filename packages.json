@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "yuriy-yakubskiy/composer-project": {
+            "0.0.1": {
+                "name": "yuriy-yakubskiy/composer-project",
+                "version": "0.0.1",
+                "version_normalized": "0.0.0.1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/yuriy-yakubskiy/composer-project.git",
+                    "reference": "8564ff2b48eeb2eb3fc77abb32465ec11772d4e1"
+                },
+                "require": {
+                    "php": ">=5.3.3",
+                },
+                "type": "project",
+                "autoload": {
+                    "psr-0": {
+                        "": "src/"
+                    }
+                },
+                "license": [
+                    "BSD-3-Clause"
+                ],
+                "description": "",
+                "support": {
+                    "source": "https://github.com/yuriy-yakubskiy/composer-project/tree/master"
+                }
+            }
+        }
+    }
+}
