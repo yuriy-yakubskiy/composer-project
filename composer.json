@@ -8,7 +8,7 @@
     },
     "license": "MIT",
     "autoload": {
-        "psr-0": { "YuriyYakubskiy\\ComposerProject\\": "src/" }
+        "psr-0": { "": "src/" }
     },
     "minimum-stability" : "stable"
 }
