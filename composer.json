@@ -3,9 +3,12 @@
     "type" : "project",
     "description": "project variation test",
     "keywords": [],
+    "require" : {
+        "symfony/http-foundation": "~2.4"
+    }
     "license": "MIT",
     "autoload": {
         "psr-0": { "YuriyYakubskiy\\ComposerProject": "src/" }
     },
-    "minimum-stability" : "beta"
+    "minimum-stability" : "stable"
 }
