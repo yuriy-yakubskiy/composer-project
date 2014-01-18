@@ -1,0 +1,17 @@
+{
+    "name": "yuriyyakubskiy/project",
+    "type" : "project",
+    "description": "project variation test",
+    "keywords": [],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yuriy Yakubskiy",
+            "homepage": "https://github.com/yuriy-yakubskiy"
+        }
+    ],
+    
+    "autoload": {
+        "psr-0": { "YuriyYakubskiy\\ComposerProject": "src/" }
+    }
+}
