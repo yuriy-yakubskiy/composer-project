@@ -8,7 +8,7 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/yuriy-yakubskiy/composer-project.git",
-                    "reference": "8564ff2b48eeb2eb3fc77abb32465ec11772d4e1"
+		    "reference" : "master"	
                 },
                 "require": {
                     "php": ">=5.3.3"
